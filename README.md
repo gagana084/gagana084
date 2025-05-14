@@ -68,20 +68,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
     </div>
 </details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <div align="center">📊 GitHub Stats</div>
-
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GaganaRandimal&show_icons=true&theme=algolia&count_private=true&hide_border=true" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaRandimal&layout=compact&hide_border=true&theme=algolia" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganaRandimal&theme=algolia&hide_border=true" />
-</div>
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
