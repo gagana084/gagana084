@@ -89,10 +89,7 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=GaganaRandimal&color=blue&style=for-the-badge" />
-</div>
-
+ 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=100&section=footer" />
 </div>
