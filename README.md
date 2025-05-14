@@ -122,10 +122,4 @@
     &copy; 2025 Gagana Randimal
 </div>
 
-<!-- Activity graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=gagana084&theme=react-dark&hide_border=true" width="100%"/>
-
-<!-- Snake animation -->
-<div align="center">
-    <img src="https://github.com/gagana084/gagana084/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
+ 
