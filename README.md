@@ -23,12 +23,12 @@
     <summary align="center"><b>💻 Frontend Technologies</b></summary>
     <br>
     <div align="center">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="50" height="50" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass" width="50" height="50" />&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50" />
     </div>
 </details>
@@ -37,10 +37,10 @@
     <summary align="center"><b>🛠️ Backend & Programming</b></summary>
     <br>
     <div align="center">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" />&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50" />
     </div>
 </details>
@@ -57,17 +57,33 @@
     <summary align="center"><b>🧊 Tools & Environments</b></summary>
     <br>
     <div align="center">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />
-        <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-qizpvp2b.png" alt="IntellJ" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />
-        <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg" alt="arduino" width="50" height="50" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50" />&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />&nbsp;
+        <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-qizpvp2b.png" alt="IntellJ" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />&nbsp;
+        <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg" alt="arduino" width="50" height="50" />&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50" />
     </div>
 </details>
  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section with Animation -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gagana084&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagana084&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagana084&theme=radical&layout=compact&hide_border=true" width="50%" />
+</div>
+
+<!-- Add typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Passionate+Software+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies;Creating+Efficient+Solutions" alt="Typing SVG" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -88,9 +104,14 @@
     </a>
 </div>
 
- 
+<!-- Profile views counter -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=100&section=footer" />
+    <img src="https://komarev.com/ghpvc/?username=gagana084&color=0969da&style=flat-square" alt="Profile views" />
+</div>
+
+<!-- Animated footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=100&section=footer&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -99,4 +120,12 @@
 
 <div align="center">
     &copy; 2025 Gagana Randimal
+</div>
+
+<!-- Activity graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=gagana084&theme=react-dark&hide_border=true" width="100%"/>
+
+<!-- Snake animation -->
+<div align="center">
+    <img src="https://github.com/gagana084/gagana084/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
