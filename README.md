@@ -60,7 +60,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50" />&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="50" height="50" />&nbsp;
-        <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-1024x1024-qizpvp2b.png" alt="IntellJ" width="50" height="50" />&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" />&nbsp;
         <img src="https://brandslogos.com/wp-content/uploads/thumbs/arduino-logo-vector-1.svg" alt="arduino" width="50" height="50" />&nbsp;
